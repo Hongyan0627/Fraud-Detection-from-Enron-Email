@@ -1,0 +1,12 @@
+(lp0
+S'poi'
+p1
+aS'exercised_stock_options'
+p2
+aS'restricted_stock'
+p3
+aS'other'
+p4
+aS'expenses'
+p5
+a.
